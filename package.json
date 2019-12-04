@@ -1,0 +1,21 @@
+{
+  "name": "lrucache",
+  "version": "1.0.0",
+  "description": "lru cache implementation in nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "lru",
+    "cache",
+    "lru",
+    "cache"
+  ],
+  "author": "arunchembilath",
+  "license": "ISC"
+}
